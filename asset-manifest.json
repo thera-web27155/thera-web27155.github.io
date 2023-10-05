@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.11fde826.css",
+    "main.js": "/static/js/main.e01e2a66.js",
+    "static/js/787.d715b753.chunk.js": "/static/js/787.d715b753.chunk.js",
+    "static/media/hot-dog-removebg-preview.png": "/static/media/hot-dog-removebg-preview.b378769f3f96116b363a.png",
+    "static/media/aborrajao-removebg-preview.png": "/static/media/aborrajao-removebg-preview.4ffe12fa11d372089cba.png",
+    "static/media/fast.food-removebg-preview.png": "/static/media/fast.food-removebg-preview.36c2d2e848a4d1590c2f.png",
+    "static/media/tiramisu-removebg-preview.png": "/static/media/tiramisu-removebg-preview.b71e7922409c9a88fd11.png",
+    "static/media/IMG_4258-removebg-preview.png": "/static/media/IMG_4258-removebg-preview.c9cc1dc1582e604659bd.png",
+    "static/media/helado-removebg-preview.png": "/static/media/helado-removebg-preview.0d3263b1fd355b1d97ce.png",
+    "static/media/Hamburguesa-removebg-preview.png": "/static/media/Hamburguesa-removebg-preview.67d73f91c9d15e69ffb6.png",
+    "static/media/brownie-removebg-preview.png": "/static/media/brownie-removebg-preview.f577efacad425934ba74.png",
+    "static/media/gasimba2-removebg-preview.png": "/static/media/gasimba2-removebg-preview.0620f51ff5a250f69273.png",
+    "static/media/natural-juice-removebg-preview.png": "/static/media/natural-juice-removebg-preview.d100ee2722e99016d587.png",
+    "static/media/patacon-removebg-preview.png": "/static/media/patacon-removebg-preview.022b1a563d6148519309.png",
+    "static/media/arepa-mixta-removebg-preview.png": "/static/media/arepa-mixta-removebg-preview.7c227cf5e365a95b3f84.png",
+    "static/media/papipollo-removebg-preview.png": "/static/media/papipollo-removebg-preview.de916bf9ecf6b15ff10a.png",
+    "static/media/papicarne-removebg-preview.png": "/static/media/papicarne-removebg-preview.81a22122641486340ded.png",
+    "static/media/ArepadeHuevo-removebg-preview.png": "/static/media/ArepadeHuevo-removebg-preview.888bd91e0917d1020960.png",
+    "static/media/Batidos-removebg-preview.png": "/static/media/Batidos-removebg-preview.f3061931e9edbcb705db.png",
+    "static/media/LogoCabecera.png": "/static/media/LogoCabecera.3c43feccf003d7ca76a9.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.11fde826.css.map": "/static/css/main.11fde826.css.map",
+    "main.e01e2a66.js.map": "/static/js/main.e01e2a66.js.map",
+    "787.d715b753.chunk.js.map": "/static/js/787.d715b753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11fde826.css",
+    "static/js/main.e01e2a66.js"
+  ]
+}
